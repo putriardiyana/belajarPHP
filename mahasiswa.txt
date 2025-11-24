@@ -1,0 +1,2 @@
+echo "1. Putri Ardiyana - (NIM: 12345)" >> mahasiswa.txt
+echo "2. Nayla Salsabila - (NIM: 6789)" >> mahasiswa.txt
